@@ -1,6 +1,6 @@
 # elan-scissors
 
-Cut ELAN audio into snippets.
+Cut ELAN audio into snippets. You may need to [install an audio library usable by pydub](https://github.com/jiaaro/pydub#getting-ffmpeg-set-up)).
 Usage:
 
 `elanscissors <SRC> <TARGET>`, where `SRC` is a flextext file and `TARGET` a wav file.
